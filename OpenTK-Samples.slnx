@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/01-GettingStarted/">
+    <Project Path="01-GettingStarted/01-Window/01-HelloWindow.csproj" />
+    <Project Path="01-GettingStarted/02-WindowConfiguration/02-WindowConfiguration.csproj" Id="9cfbf580-36f8-44b6-bcc5-59147ab3c053" />
+    <Project Path="01-GettingStarted/03-GameLoop/03-GameLoop.csproj" Id="8db32822-857f-4823-8836-0767a00634c5" />
+    <Project Path="01-GettingStarted/04-KeyboardInput/04-KeyboardInput.csproj" Id="ea1e8f64-3f18-47d3-8fec-924ecd0632ac" />
+    <Project Path="01-GettingStarted/05-MouseInput/05-MouseInput.csproj" Id="27989787-0876-4a9f-a72d-e16eba43030a" />
+    <Project Path="01-GettingStarted/06-HelloTriangle/06-HelloTriangle.csproj" Id="d1ca78c3-174c-4a0b-8065-d412bd74f6fe" />
+  </Folder>
+</Solution>
